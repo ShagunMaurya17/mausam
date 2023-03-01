@@ -1,4 +1,4 @@
-import hotBg from "./assets/hot.jpg";
+import hotBg from "./assets/hot1.jpg";
 import coldBg from "./assets/cold.jpg";
 import Descriptions from "./components/Descriptions";
 import { useEffect, useState } from "react";
